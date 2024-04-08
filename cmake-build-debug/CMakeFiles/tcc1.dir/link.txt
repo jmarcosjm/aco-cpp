@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g CMakeFiles/tcc1.dir/main.cpp.o -o tcc1  /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0 

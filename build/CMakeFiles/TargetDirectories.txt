@@ -1,0 +1,3 @@
+/home/jao/Projetos/tcc/build/CMakeFiles/tcc1.dir
+/home/jao/Projetos/tcc/build/CMakeFiles/edit_cache.dir
+/home/jao/Projetos/tcc/build/CMakeFiles/rebuild_cache.dir
