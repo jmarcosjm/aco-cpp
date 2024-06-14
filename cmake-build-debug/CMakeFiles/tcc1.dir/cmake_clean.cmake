@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tcc1.dir/main.cpp.o"
-  "CMakeFiles/tcc1.dir/main.cpp.o.d"
   "tcc1"
   "tcc1.pdb"
 )

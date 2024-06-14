@@ -54,10 +54,10 @@ RM = /opt/cmake-3.26.0-rc6-linux-x86_64/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/jmarc/Documents/Projetos/TCC/tcc
+CMAKE_SOURCE_DIR = /mnt/c/Users/jmarc/Documents/Projetos/TCC/aco-cpp/aco-cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/jmarc/Documents/Projetos/TCC/tcc/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/c/Users/jmarc/Documents/Projetos/TCC/aco-cpp/aco-cpp/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/tcc1.dir/clean
 CMakeFiles/tcc1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tcc1.dir/build.make CMakeFiles/tcc1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tcc1.dir/build.make CMakeFiles/tcc1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/jmarc/Documents/Projetos/TCC/tcc/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target tcc1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/jmarc/Documents/Projetos/TCC/aco-cpp/aco-cpp/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target tcc1"
 .PHONY : CMakeFiles/tcc1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tcc1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/jmarc/Documents/Projetos/TCC/tcc/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/jmarc/Documents/Projetos/TCC/aco-cpp/aco-cpp/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/tcc1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/jmarc/Documents/Projetos/TCC/tcc/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/jmarc/Documents/Projetos/TCC/aco-cpp/aco-cpp/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/tcc1.dir/rule
 
 # Convenience name for target.
